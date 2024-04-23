@@ -1,0 +1,12 @@
+{"idx": "8087", "sentence1": "In reviewing this history, it's important to make some crucial distinctions.", "sentence2": "There's no point in analyzing the past.", "label": "contradiction"}
+{"idx": "6127", "sentence1": "that's neat just supervised more or less than anything and security i guess for them", "sentence2": "There was no supervision.", "label": "contradiction"}
+{"idx": "295", "sentence1": "The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame.", "sentence2": "Most of the activities taken under the regulatory actions have been longer that 12 months.", "label": "neutral"}
+{"idx": "2692", "sentence1": "It will be COLOSSAL!\"", "sentence2": "It will be gigantic.", "label": "entailment"}
+{"idx": "4210", "sentence1": "This call to play fortuneteller is not easily refused.", "sentence2": "It's not easily refused the call to play fortuneteller, said the man.", "label": "neutral"}
+{"idx": "4128", "sentence1": "okay and and i think we just hang up i don't think we have to do anything else", "sentence2": "That's it, we just hang up, right? ", "label": "entailment"}
+{"idx": "5595", "sentence1": "A recorded menu will provide information on how to obtain these lists.", "sentence2": "Recorded menus do not provide any information at this time. ", "label": "contradiction"}
+{"idx": "5647", "sentence1": "The tabs are getting fed up with women who have become rich and famous by telling everyone else how to be better.", "sentence2": "Men who have become rich and famous by telling everyone else how to be better are making people fed up.", "label": "contradiction"}
+{"idx": "1226", "sentence1": "They're both excited about it ...", "sentence2": "They're excited about the zoo. ", "label": "neutral"}
+{"idx": "7453", "sentence1": "The riotous revelry roars right past Mardi Gras (Shrove Tuesday) when red-costumed children star as devils, to its peak on Ash Wednesday.", "sentence2": "Mardi Gras is only the more common name because it is not specifically linked to religion.", "label": "neutral"}
+{"idx": "5799", "sentence1": "He seemed a trifle embarrassed.", "sentence2": "He seemed a little bit embarrassed.", "label": "entailment"}
+{"idx": "7167", "sentence1": "it can't last seven years but it can last five IBM says let's throw it away Leading Edge will say we'll buy it from you", "sentence2": "It is not going to be able to last seven years.", "label": "entailment"}
